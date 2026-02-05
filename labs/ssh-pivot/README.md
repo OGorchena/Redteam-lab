@@ -18,6 +18,7 @@ ping -c 1 <peer_ip>
 ss -lntp | grep ':22'
 systemctl status sshd  # Manjaro
 systemctl status ssh   # Kali
+```
 
 📄 Lab Content
 
